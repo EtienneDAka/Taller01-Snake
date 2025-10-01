@@ -4,9 +4,9 @@
 # INTEGRANTE1 -> Gabriel Ordoñez
 # INTEGRANTE2 -> Arihuz Icaza
 # INTEGRANTE3 -> Josue Pacheco
-![Alt text](https://github.com/EtienneDAka/Taller01-Snake/images/lider.png)
-![Alt text](https://github.com/EtienneDAka/Taller01-Snake/images/integrante1conf.png)
-![Alt text](https://github.com/EtienneDAka/Taller01-Snake/images/integrante1sol.png)
-![Alt text](https://github.com/EtienneDAka/Taller01-Snake/images/integrante2.png)
-![Alt text](https://github.com/EtienneDAka/Taller01-Snake/images/integrante3conf.png)
-![Alt text](https://github.com/EtienneDAka/Taller01-Snake/images/integrante3sol.png)
+![Lider](https://raw.githubusercontent.com/EtienneDAka/Taller01-Snake/main/images/lider.png)
+![Integrante1 Config](https://raw.githubusercontent.com/EtienneDAka/Taller01-Snake/main/images/integrante1conf.png)
+![Integrante1 Sol](https://raw.githubusercontent.com/EtienneDAka/Taller01-Snake/main/images/integrante1sol.png)
+![Integrante2](https://raw.githubusercontent.com/EtienneDAka/Taller01-Snake/main/images/integrante2.png)
+![Integrante3 Config](https://raw.githubusercontent.com/EtienneDAka/Taller01-Snake/main/images/integrante3conf.png)
+![Integrante3 Sol](https://raw.githubusercontent.com/EtienneDAka/Taller01-Snake/main/images/integrante3sol.png)
